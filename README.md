@@ -39,10 +39,9 @@ Each task demonstrates different data analysis and visualization skills using to
 
 ## 📊 Sample Dashboards
 
-Here are a few snapshots from my **Power BI Retail Dashboard**:
+Here are a snapshot from my **Power BI Retail Dashboard**:
 
-![Dashboard 1](Task%203%20Power%20bi/Final/Screenshot%202025-10-06%20233940.png)
-![Dashboard 2](Task%203%20Power%20bi/Final/Screenshot%202025-10-06%20234020.png)
+![Dashboard](Task%203%20Power%20bi/Final/Screenshot%202025-10-06%20234020.png)
 
 ---
 
@@ -58,8 +57,8 @@ Each task was designed to build strong analytical, visualization, and reporting 
 👤 **Ali Dandsh**  
 💼 Data Analyst | Data Scientist | Data Entry Specialist  
 🔗 [GitHub Profile](https://github.com/Ali-Dandsh)  
-📧 Email: *youremail@example.com*  
-🌐 Portfolio: *Add your portfolio link if you have one*
+📧 Email: *alidandsh07@gmail.com*  
+🌐 Portfolio: *https://www.canva.com/design/DAGxaxFsQek/y9fPtU35GpnLqxRjmVE8ww/edit?utm_content=DAGxaxFsQek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton*
 
 ---
 
